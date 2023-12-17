@@ -1,7 +1,8 @@
 gitfull and git push
 $ history
     1  Download/
-    2  cd Download/
+       enter the command
+    2 how to download the file
     3  pwd
     4  ll
     5  ls
