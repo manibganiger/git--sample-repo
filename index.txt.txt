@@ -1,0 +1,24 @@
+gitfull and git push
+$ history
+    1  Download/
+    2  cd Download/
+    3  pwd
+    4  ll
+    5  ls
+    6  ls -ltrh
+    7  ll
+    8  ls
+    9  cs /Download/test/
+   10  master
+   11  ll
+   12  git instal
+   13  git install
+   14  git --version
+   15  git help config
+   16  mkdir test
+   17  vs test
+   18  cd test
+   19  git init
+   20
+   21
+   23
