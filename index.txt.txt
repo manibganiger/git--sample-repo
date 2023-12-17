@@ -19,6 +19,7 @@ $ history
    17  vs test
    18  cd test
    19  git init
-   20
-   21
-   23
+   20  git clear and clean
+   21  makdir is used the commond 
+   23  git init and git status and add file and use the command from git commit -m "cheged the file"
+       and also use command
